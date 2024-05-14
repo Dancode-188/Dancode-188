@@ -41,9 +41,13 @@
 
 ## 📫 Let's Connect!
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/daniel-bitengo-380720267/)
-- 📧 [Email](mailto:danielbitengo)
-- 🌐 [Portfolio](https://yourname.github.io)
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
+
+[linkedin]: https://linkedin.com/in/yourname
+[twitter]: https://twitter.com/yourusername
+[github]: https://github.com/yourusername
 
 ## 🌟 Quote of the Day
 
