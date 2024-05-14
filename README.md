@@ -2,10 +2,13 @@
 # 👋 I'm Daniel Bitengo
 
 ## 🚀 About Me
-- 💡 I'm a passionate developer with expertise in [Your Skills]
-- 🌱 I'm currently learning [Current Learning Endeavor]
-- 👯 I'm looking to collaborate on [Collaboration Interests]
-- 🥅 2024 Goals: [Your Goals]
+- 💡 I'm a passionate developer with expertise in web development, particularly in front-end technologies like React, JavaScript, HTML, and CSS. I also have experience working with back-end technologies such as Node.js and MongoDB.
+
+- 🌱 I'm currently learning more about serverless architectures and exploring cloud platforms like AWS and Google Cloud. I'm also diving deeper into DevOps practices to enhance my skills in building and deploying scalable applications.
+
+- 👯 I'm looking to collaborate on open-source projects that focus on creating accessible and user-friendly web applications. I'm particularly interested in projects that leverage modern front-end frameworks and promote best practices in code quality and maintainability.
+
+- 🥅 2024 Goals: My goals for 2024 include becoming proficient in serverless technologies, contributing to at least three significant open-source projects, and sharing my knowledge through blog posts and tech talks. I also aim to expand my skill set by learning a new programming language, such as Python or Go.
 
 ## 🛠 Skills and Technologies
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
