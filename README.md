@@ -32,7 +32,7 @@
 ![React Hook Form](https://img.shields.io/badge/-React%20Hook%20Form-EC5990?style=flat-square&logo=React%20Hook%20Form&logoColor=white)
 
 ## 📊 GitHub Stats
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dancode-188&show_icons=true&theme=radical&cache_bust=true)
+![Bitengo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dancode-188&show_icons=true&theme=radical&cache_bust=true&include_all_commits=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dancode-188&layout=compact&theme=radical&cache_bust=true)](https://github.com/Dancode-188/github-readme-stats)
 
