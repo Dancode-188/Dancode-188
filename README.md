@@ -41,11 +41,9 @@
 
 ## 📫 Let's Connect!
 
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-<a href="https://github.com/yourusername?tab=followers">
-  <img align="left" alt="GitHub Follow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)][twitter]
+[![GitHub](https://img.shields.io/badge/Follow-100000?style=for-the-badge&logo=github&logoColor=white)][github]
 
 [linkedin]: https://www.linkedin.com/in/daniel-bitengo-380720267/
 [twitter]: https://twitter.com/DanielBitengo
