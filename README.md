@@ -47,7 +47,7 @@
 
 [linkedin]: https://www.linkedin.com/in/daniel-bitengo-380720267/
 [twitter]: https://twitter.com/DanielBitengo
-[github]: https://github.com/yourusername
+[github]: https://github.com/Dancode-188
 
 ## 🌟 Quote of the Day
 
