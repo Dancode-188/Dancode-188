@@ -34,7 +34,7 @@
 ## 📊 GitHub Stats
 ![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dancode-188&show_icons=true&theme=radical&cache_bust=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dancode-188&layout=compact&theme=radical)](https://github.com/Dancode-188/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dancode-188&layout=compact&theme=radical)](https://github.com/Dancode-188/github-readme-stats&cache_bust=true)
 
 ## 🏆 Notable Projects
 [![Online Chat Application](https://github-readme-stats.vercel.app/api/pin/?username=Dancode-188&repo=Online-chat-application&theme=radical)](https://github.com/Dancode-188/Online-chat-application)
