@@ -25,7 +25,21 @@
 - [Project 2](link-to-project-2)
 - [Project 3](link-to-project-3)
 
-## 📫 Get in Touch
-- LinkedIn: [Your LinkedIn Profile](link-to-your-linkedin)
-- Email: [Your Email Address](mailto:your-email@example.com)
-- Portfolio: [Your Portfolio](link-to-your-portfolio)
+## 📊 Contribution Graph
+
+![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Dancode-188&theme=rogue&hide_border=true&area=true)
+
+## 🐍 Snake Animation
+
+![Snake Animation](https://github.com/Dancode-188/Dancode-188/blob/output/github-contribution-grid-snake.gif)
+
+
+## 📫 Let's Connect!
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/yourname)
+- 📧 [Email](mailto:yourname@example.com)
+- 🌐 [Portfolio](https://yourname.github.io)
+
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=Dancode-188.Dancode-188)
+
+![Footer](https://github.com/Dancode-188/Dancode-188/blob/main/footer.gif)
