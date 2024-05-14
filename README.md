@@ -16,7 +16,7 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 
 ## 📊 GitHub Stats
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dancode-188&show_icons=true&theme=radical)
 
 ## 🏆 Notable Projects
 - [Project 1](link-to-project-1)
