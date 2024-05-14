@@ -18,6 +18,8 @@
 ## 📊 GitHub Stats
 ![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dancode-188&show_icons=true&theme=radical)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dancode-188&layout=compact&theme=radical)](https://github.com/Dancode-188/github-readme-stats)
+
 ## 🏆 Notable Projects
 - [Project 1](link-to-project-1)
 - [Project 2](link-to-project-2)
