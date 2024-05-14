@@ -43,10 +43,12 @@
 
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
+<a href="https://github.com/yourusername?tab=followers">
+  <img align="left" alt="GitHub Follow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
 
-[linkedin]: https://linkedin.com/in/yourname
-[twitter]: https://twitter.com/yourusername
+[linkedin]: https://www.linkedin.com/in/daniel-bitengo-380720267/
+[twitter]: https://twitter.com/DanielBitengo
 [github]: https://github.com/yourusername
 
 ## 🌟 Quote of the Day
