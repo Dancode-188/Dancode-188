@@ -47,4 +47,4 @@
 
 ## 🌟 Quote of the Day
 
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=radical)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
