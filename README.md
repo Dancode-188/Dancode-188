@@ -38,8 +38,7 @@
 
 ## 🏆 Notable Projects
 [![Online Chat Application](https://github-readme-stats.vercel.app/api/pin/?username=Dancode-188&repo=Online-chat-application&theme=radical)](https://github.com/Dancode-188/Online-chat-application)
-- [Project 2](link-to-project-2)
-- [Project 3](link-to-project-3)
+
 
 
 ## 📫 Let's Connect!
