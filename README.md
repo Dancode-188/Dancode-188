@@ -32,9 +32,14 @@
 ![React Hook Form](https://img.shields.io/badge/-React%20Hook%20Form-EC5990?style=flat-square&logo=React%20Hook%20Form&logoColor=white)
 
 ## 📊 GitHub Stats
-![Bitengo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dancode-188&show_icons=true&theme=radical&cache_bust=true)
+<a href="https://github.com/Dancode-188/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Dancode-188&show_icons=true&theme=radical&cache_bust=true" />
+</a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dancode-188&layout=compact&theme=radical&cache_bust=true)](https://github.com/Dancode-188/github-readme-stats)
+<a href="https://github.com/Dancode-188/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dancode-188&layout=compact&theme=radical&langs_count=8&card_width=320" />
+</a>
+
 
 ## 🏆 Notable Projects
 [![Online Chat Application](https://github-readme-stats.vercel.app/api/pin/?username=Dancode-188&repo=Online-chat-application&theme=radical)](https://github.com/Dancode-188/Online-chat-application)
