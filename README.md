@@ -36,7 +36,7 @@
 
 
 ## 🏆 Notable Projects
-[![Intent System as a Service](https://github-readme-stats.vercel.app/api/pin/?username=Dancode-188&repo=Online-chat-application&theme=radical)](https://github.com/Dancode-188/intent-system-service)
+[![Intent System as a Service](https://github-readme-stats.vercel.app/api/pin/?username=Dancode-188&repo=intent-system-service&theme=radical)](https://github.com/Dancode-188/intent-system-service)
 
 
 
