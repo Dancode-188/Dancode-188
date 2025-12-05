@@ -108,7 +108,7 @@ Visual workflow editor for multi-step API testing. Extract variables from respon
 
 ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=Dancode-188&theme=radical&hide_border=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dancode-188&layout=compact&theme=radical&langs_count=8)
+![Top Languages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dancode-188&theme=radical)
 
 ---
 
