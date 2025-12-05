@@ -106,13 +106,25 @@ Visual workflow editor for multi-step API testing. Extract variables from respon
 
 ## 📊 GitHub Stats
 
-<a href="https://github.com/Dancode-188">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Dancode-188&show_icons=true&theme=radical&cache_seconds=1800" />
-</a>
+### Detailed Metrics
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Dancode-188/Dancode-188/main/github-metrics.svg" alt="Metrics" width="100%">
+</div>
 
-<a href="https://github.com/Dancode-188">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dancode-188&layout=compact&theme=radical&langs_count=8&card_width=320&cache_seconds=1800" />
-</a>
+### Contribution Streak
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Dancode-188&theme=radical&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" alt="GitHub Streak" />
+</div>
+
+### Quick Stats
+<div align="center">
+  <a href="https://github.com/Dancode-188">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Dancode-188&show_icons=true&theme=radical&cache_seconds=1800" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/Dancode-188">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dancode-188&layout=compact&theme=radical&langs_count=8&card_width=320&cache_seconds=1800" alt="Top Languages" />
+  </a>
+</div>
 
 ---
 
