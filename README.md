@@ -12,5 +12,4 @@ All of it solo, in the open, over the last year. Reeve is the first I mapped out
 
 I'm 21, in Nairobi, looking for my first team: infrastructure, developer tools, anywhere the systems are the hard part.
 
-LinkedIn: linkedin.com/in/daniel-bitengo
-Email: danielbitengo@gmail.com
+Reach me on [LinkedIn](https://www.linkedin.com/in/daniel-bitengo) or at danielbitengo@gmail.com.
